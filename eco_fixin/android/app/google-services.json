@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869242982721",
+    "project_id": "ecorent-54823",
+    "storage_bucket": "ecorent-54823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869242982721:android:55f29e8d79d1743a5251c0",
+        "android_client_info": {
+          "package_name": "com.example.eco_fixin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQH80qnTGQioazW1XopTHMrq_frNBnkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869242982721:android:5c9cacd10d4cdd195251c0",
+        "android_client_info": {
+          "package_name": "com.example.eco_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQH80qnTGQioazW1XopTHMrq_frNBnkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
